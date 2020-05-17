@@ -1,6 +1,6 @@
 # Matplotlib Challenge - The Power of Plots
 
-Key Tools used: Matplotlib, Python, Pandas, Jupyter Notebook
+Key Tools used: Matplotlib, Python, Jupyter Notebook
 
 ## Background - Pymaceuticals
 
@@ -18,4 +18,3 @@ In this challenge, I created three scatter plots. One scatterplot shows how the 
 ![Survival During Treatment](Images/my_survival.png)
 ![Tumor Response to Treatment](Images/my_treatment.png)
 ![Tumor Change over 45 Day treatment](Images/my_change.png)
-
